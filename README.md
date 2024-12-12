@@ -33,4 +33,4 @@ And also check the docker-compose.yml file to see the database configuration.
 
 https://github.com/osztobanyipeter0/AngularRepository/tree/master
 
-npm install and ng serve to run
+`npm install` and `ng serve` to run
