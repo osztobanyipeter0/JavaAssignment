@@ -28,3 +28,9 @@ spring.jpa.hibernate.ddl-auto=none
 
 More information about the properties can be found in the application.properties file.
 And also check the docker-compose.yml file to see the database configuration.
+
+##To use it with frontend
+
+https://github.com/osztobanyipeter0/AngularRepository/tree/master
+
+npm install and ng serve to run
